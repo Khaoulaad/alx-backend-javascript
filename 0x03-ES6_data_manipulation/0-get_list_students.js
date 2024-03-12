@@ -1,5 +1,5 @@
 export default function getListStudents() {
-  const oj1 = {
+  const obj1 = {
     id: 1,
     firstName: 'Guillaume',
     location: 'San Francisco',
